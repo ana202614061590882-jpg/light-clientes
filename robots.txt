@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://SEU-DOMINIO.com/sitemap.xml
+Sitemap: https://light-clientes.vercel.app/sitemap.xml
