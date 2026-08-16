@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://light-clientes.vercel.app/sitemap.xml
